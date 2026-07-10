@@ -235,6 +235,19 @@ Visit the official Chatbase website for documentation, pricing, and product upda
 
 ---
 
+## Technical Discussions
+
+Looking for more detailed information? Explore these community discussions.
+
+- [What is Chatbase and how does it work?](https://github.com/AITrems/Chatbase/discussions/1)
+- [How to train Chatbase using PDFs?](https://github.com/AITrems/Chatbase/discussions/2)
+- [Can Chatbase crawl websites automatically?](https://github.com/AITrems/Chatbase/discussions/3)
+- [Chatbase API tutorial](https://github.com/AITrems/Chatbase/discussions/4)
+- [Chatbase vs Botpress](https://github.com/AITrems/Chatbase/discussions/5)
+- [Chatbase alternatives](https://github.com/AITrems/Chatbase/discussions/6)
+
+---
+
 ## Disclaimer
 
 This document is intended for educational purposes only.
