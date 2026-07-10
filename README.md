@@ -231,7 +231,7 @@ Analytics & Improvements
 
 Visit the official Chatbase website for documentation, pricing, and product updates.
 
-https://www.chatbase.co
+https://link.chatbase.co/explore
 
 ---
 
